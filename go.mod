@@ -8,7 +8,7 @@ require (
 	github.com/OpenPeeDeeP/xdg v0.2.1-0.20190312153938-4ba9e1eb294c
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/cloudfoundry/jibber_jabber v0.0.0-20151120183258-bcc4c8345a21
-	github.com/docker/distribution v2.7.1+incompatible // indirect
+	github.com/docker/distribution v2.8.0+incompatible // indirect
 	github.com/docker/docker v0.7.3-0.20190307005417-54dddadc7d5d
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
@@ -22,7 +22,6 @@ require (
 	github.com/integrii/flaggy v1.4.0
 	github.com/jesseduffield/asciigraph v0.0.0-20190605104717-6d88e39309ee
 	github.com/jesseduffield/gocui v0.3.1-0.20200201013258-57fdcf23edc5
-	github.com/jesseduffield/rollrus v0.0.0-20190701125922-dd028cb0bfd7 // indirect
 	github.com/jesseduffield/termbox-go v0.0.0-20200130214842-1d31d1faa3c9 // indirect
 	github.com/jesseduffield/yaml v0.0.0-20190702115811-b900b7e08b56
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
